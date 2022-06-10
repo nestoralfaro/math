@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+
+# Math
+## By Nestor Alfaro
+
+This app implements the concepts of a stateful react component. The component `<Math>` has a `decimal` optional attribute that rounds and fixes the many decimals to show from the calculation. `decimal` defaults to `2`.
+
+# Getting Started with Create React App (Default docs)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

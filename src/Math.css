@@ -1,0 +1,22 @@
+.math {
+  margin-top: 2em;
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+  font-size: 2em;
+}
+
+.operator {
+  font-size: 2rem;
+  border: none;
+}
+
+.number {
+  padding: 1rem;
+  margin: 10px;
+  font-size: 2rem;
+  border: none;
+  border-radius: 2rem;
+  background: #eee;
+  width: 30%;
+}
