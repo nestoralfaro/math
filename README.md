@@ -1,8 +1,9 @@
 
 # Math
-## By Nestor Alfaro
-
 This app implements the concepts of a stateful react component. The component `<Math>` has a `decimal` optional attribute that rounds and fixes the many decimals to show from the calculation. `decimal` defaults to `2`.
+
+## Demo
+![math-demo](https://user-images.githubusercontent.com/83131937/172975415-16eb7c79-e3ff-472f-8c3a-f6ec9d133ccb.gif)
 
 # Getting Started with Create React App (Default docs)
 
